@@ -1,6 +1,5 @@
 #to add to your hsots file, block these sites
-#wget https://raw.githubusercontent.com/bannedbook/blockporn/master/hosts.txt  -O ->> /etc/hosts
-127.0.0.1	007angels.com
+#wget https://raw.githubusercontent.com/bannedbook/fanqiang/master/hosts/temp/hosts.txt  -O ->> /etc/hosts
 127.0.0.1	007milf.com
 127.0.0.1	00webcams.com
 127.0.0.1	0xxx.ws
@@ -8481,7 +8480,6 @@
 127.0.0.1	ww.angelswifelovers.com
 127.0.0.1	www-xnxx.net
 127.0.0.1	www-xxx-video.com
-127.0.0.1	www.007angels.com
 127.0.0.1	www.007milf.com
 127.0.0.1	www.00webcams.com
 127.0.0.1	www.0xxx.ws
