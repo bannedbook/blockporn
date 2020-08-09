@@ -8036,7 +8036,6 @@
 127.0.0.1	upscalestripper.com
 127.0.0.1	upskirt.tv
 127.0.0.1	upskirtporn.de
-127.0.0.1	urbandictionary.com
 127.0.0.1	urlcash.net
 127.0.0.1	urlgalleries.net
 127.0.0.1	urod.ru
@@ -15612,7 +15611,6 @@
 127.0.0.1	www.upscalestripper.com
 127.0.0.1	www.upskirt.tv
 127.0.0.1	www.upskirtporn.de
-127.0.0.1	www.urbandictionary.com
 127.0.0.1	www.urlcash.net
 127.0.0.1	www.urlgalleries.net
 127.0.0.1	www.urod.ru
@@ -17027,3 +17025,5 @@
 127.0.0.1	zzztube.com
 127.0.0.1 seyeye16.com
 127.0.0.1 www.seyeye16.com
+127.0.0.1	bessporno.tv
+127.0.0.1	www.bessporno.tv
