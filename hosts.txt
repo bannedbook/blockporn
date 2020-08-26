@@ -17027,3 +17027,5 @@
 127.0.0.1 www.seyeye16.com
 127.0.0.1	bessporno.tv
 127.0.0.1	www.bessporno.tv
+127.0.0.1	eroero-gazou.net
+127.0.0.1	www.eroero-gazou.net
