@@ -1,7 +1,7 @@
 
 #to add to your hsots file, block these sites
 #wget https://raw.githubusercontent.com/bannedbook/blockporn/master/hosts-20220129.txt  -O ->> /etc/hosts
-
+127.0.0.1	cn.pornhub.com
 127.0.0.1	madou.club
 127.0.0.1	mod.red
 127.0.0.1	mod.run

@@ -17030,6 +17030,7 @@
 127.0.0.1	www.bessporno.tv
 127.0.0.1	eroero-gazou.net
 127.0.0.1	www.eroero-gazou.net
+127.0.0.1	cn.pornhub.com
 
 127.0.0.1	madou.club
 127.0.0.1	mod.red
