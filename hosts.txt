@@ -17030,4 +17030,52 @@
 127.0.0.1	www.bessporno.tv
 127.0.0.1	eroero-gazou.net
 127.0.0.1	www.eroero-gazou.net
-127.0.0.1	cn.pornhub.com
+
+127.0.0.1	madou.club
+127.0.0.1	mod.red
+127.0.0.1	mod.run
+127.0.0.1	madou.website
+127.0.0.1	madou102.com
+127.0.0.1	36717.cc
+127.0.0.1	nshens.com
+127.0.0.1	mdtv004.com
+127.0.0.1	mdtv002.com
+127.0.0.1	madou1.com
+127.0.0.1	17185.cc
+127.0.0.1	mdtv014.com
+
+127.0.0.1	www.madou.club
+127.0.0.1	www.mod.red
+127.0.0.1	www.mod.run
+127.0.0.1	www.madou.website
+127.0.0.1	www.madou102.com
+127.0.0.1	www.36717.cc
+127.0.0.1	www.nshens.com
+127.0.0.1	www.mdtv004.com
+127.0.0.1	www.mdtv002.com
+127.0.0.1	www.madou1.com
+127.0.0.1	www.17185.cc
+127.0.0.1	www.mdtv014.com
+
+127.0.0.1	m.madou.club
+127.0.0.1	m.mod.red
+127.0.0.1	m.mod.run
+127.0.0.1	m.madou.website
+127.0.0.1	m.madou102.com
+127.0.0.1	m.36717.cc
+127.0.0.1	m.nshens.com
+127.0.0.1	m.mdtv004.com
+127.0.0.1	m.mdtv002.com
+127.0.0.1	m.madou1.com
+127.0.0.1	m.17185.cc
+127.0.0.1	m.mdtv014.com
+
+127.0.0.1	nhentai.com
+127.0.0.1	nhentai.to
+127.0.0.1	nhentai.xxx
+127.0.0.1	nhentai.io
+127.0.0.1	nhentai.app
+127.0.0.1	hentai.name
+127.0.0.1	nhentai.website
+127.0.0.1	hentaifox.com
+127.0.0.1	hentairead.com
