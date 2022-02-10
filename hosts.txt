@@ -3790,10 +3790,7 @@
 127.0.0.1	img02.redtubefiles.com
 127.0.0.1	img03.redtubefiles.com
 127.0.0.1	img04.redtubefiles.com
-127.0.0.1	img24.org
 127.0.0.1	imgadult.com
-127.0.0.1	imgbox.com
-127.0.0.1	imgmodels.com
 127.0.0.1	imgtaxi.com
 127.0.0.1	imgtornado.com
 127.0.0.1	imlive.com
@@ -11935,10 +11932,7 @@
 127.0.0.1	www.imagezilla.net
 127.0.0.1	www.imagezog.com
 127.0.0.1	www.img.persiankitty.com
-127.0.0.1	www.img24.org
 127.0.0.1	www.imgadult.com
-127.0.0.1	www.imgbox.com
-127.0.0.1	www.imgmodels.com
 127.0.0.1	www.imgtaxi.com
 127.0.0.1	www.imgtornado.com
 127.0.0.1	www.imlive.com
