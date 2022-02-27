@@ -17074,3 +17074,6 @@
 127.0.0.1	nhentai.website
 127.0.0.1	hentaifox.com
 127.0.0.1	hentairead.com
+
+127.0.0.1	www.atube.xxx
+127.0.0.1	atube.xxx
