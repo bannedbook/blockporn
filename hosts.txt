@@ -17085,6 +17085,10 @@
 
 127.0.0.1	missav.com
 127.0.0.1	www.missav.com
+127.0.0.1	missav.app
+127.0.0.1	www.missav.app
+127.0.0.1	missav.live
+127.0.0.1	www.missav.live
 127.0.0.1	nivod4.tv
 127.0.0.1	www.nivod4.tv
 
