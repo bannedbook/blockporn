@@ -2,7 +2,7 @@
 127.0.0.1 engage.cloudflareclient.com
 #to add to your hsots file, block these sites
 #First, please backup your /etc/hosts
-#wget https://raw.githubusercontent.com/bannedbook/blockporn/master/hosts.txt  -O -> /etc/hosts
+#wget https://raw.githubusercontent.com/bannedbook/blockporn/master/hosts-warp.txt  -O -> /etc/hosts
 127.0.0.1 www.007milf.com 007milf.com
 127.0.0.1 www.00webcams.com 00webcams.com
 127.0.0.1 www.02weqj32.com 02weqj32.com
